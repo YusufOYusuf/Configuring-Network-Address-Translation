@@ -69,7 +69,7 @@ In the PC5 terminal window Ping 192.168.1.2 to observe that it allows you too:  
 <br />
 Now in the R6 terminal type:  <br/>
 1.show ip nat translations <br/>
-<img src="https://i.postimg.cc/9XpLyYPs/Screen-Shot-2022-08-10-at-3-55-53-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
+<img src="https://i.postimg.cc/59mMjrPz/Screen-Shot-2022-08-10-at-4-08-22-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
   
   
  
